@@ -1,0 +1,110 @@
+#box1{
+    box-sizing: border-box;
+    width: 1103px;
+    height: 454px;
+    left: 368px;
+    top: 232px;
+    border: 2px solid #FFD6D6;
+   margin: auto;
+}
+img{
+    width: 300px;
+    height: 450px;
+    display: inline-block;
+}
+#box2{
+    box-sizing: border-box;
+    width: 718px;
+    height: 71px;
+    border: 2px solid #B0E9B0;
+    display: inline-block;
+}
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:wght@100&display=swap');
+#a{
+    font-family: 'Roboto';
+    color:#000000;
+    font-size:26px;
+    
+}
+#b{
+    font-family: 'Roboto';
+    color: #008000;
+    font-size: 25px;
+}
+#c{
+    font-family: 'Roboto';
+   font-size: 16px;
+   color: #FF0000;
+}
+/* #box3{
+    width: 718px;
+    height: 266px;
+    left: 750px;
+    top: 418px;
+    border: 2px solid #B0E9B0;
+    border-radius: 0px;
+}
+#d{
+    width: 143px;
+    height: 20px;
+    left: 752px;
+    top: 419px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #000000;
+} */ 
+#x{
+    font-family: 'Roboto';
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+}
+table{
+width: 100px;
+margin-top:825px;
+box-sizing:border-box;
+}
+div{
+    display:flex;
+    margin-left: 200px;
+}
+#box3{
+    box-sizing: border-box;
+    width: 185px;
+    height: 21px;
+    left:900px;
+    top: 1149px;
+    background: #FFFFFF;
+    border: 2px solid #767676;
+}
+#box4{
+    box-sizing: border-box;
+    width: 154px;
+    height: 24px;
+    left: 923px;
+    top: 1221px;
+    background: #FFFFFF;
+    border: 2px solid #767676;
+}
+#box5{
+    box-sizing: border-box;
+    width: 93px;
+    height: 19px;
+    background: #DDDDDD;
+    border: 1px solid #767676;
+    border-radius: 0px;
+}
+button{
+    background-color:#109E97;
+    text-align: center;
+}
+
+
+
+
+
+
